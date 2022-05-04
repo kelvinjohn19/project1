@@ -1,0 +1,28 @@
+html{
+	width: 1024px;
+}
+.header{
+
+	background-image: url(IMAGEONE.PNG);
+	width: 1300px;
+	height: 600px;
+	color: white;
+	align-content: center;
+
+}
+.Body{
+	background-color: white;
+	align-content: center;
+	text-align: center;
+	width: 1300px;
+	height: 500px;
+}
+.middle{
+	background-color: black;
+height: 500px;
+flex-wrap: wrapS;
+align-content: center;
+color: white;
+
+}
+.
